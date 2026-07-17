@@ -2,7 +2,7 @@
 
 A single-page personal portfolio built from scratch in React, covering five years of CS, AI/ML, and web work. This isn't a template — every layout decision, animation, color, and interaction was written by hand.
 
-**Live:** [handdetection-nine.vercel.app](https://handdetection-nine.vercel.app) *(see also individual project links below)*
+**Live:** [Portfolio's Link](https://anubhavsingh311.github.io/Portfolio/) *(see also individual project links below)*
 
 ---
 
